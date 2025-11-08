@@ -16,7 +16,6 @@ Este repositorio contiene el cuaderno **`AluraStoreLatam.ipynb`** que analiza el
 5. [Uso](#uso)
 6. [Conjunto de datos](#conjunto-de-datos)
 7. [Resultados destacados](#resultados-destacados)
-8. [Contribuciones](#contribuciones)
 9. [Licencia](#licencia)
 10. [Autora](#autora)
 
