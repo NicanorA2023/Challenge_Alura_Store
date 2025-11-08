@@ -88,18 +88,11 @@ Los CSV provienen de URLs públicas de GitHub Raw (incluidas en la primera celd
 * **Productos estrella y de baja rotación:** guía para decisiones de inventario.
 * **Envío promedio:** indica posibles oportunidades de optimización logística.
 
-## Contribuciones
-
-¡Se aceptan *pull requests*! Por favor crea un branch, describe tu cambio y abre la PR.
-
 ## Licencia
 
 Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
 ## Autora
 
-**Joanna Alexandra Carrión Pérez**  
-🎓 Bachiller en Ingeniería Electrónica  
-🚀 Apasionada por la ciencia de datos y sistemas inteligentes  
-📧 joannacarrion14@gmail.com  
-🔗 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Joanna%20Carrión%20Pérez-blue?style=flat&logo=linkedin) [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/) 
+**Alejandra Villegas Valles**  
+
